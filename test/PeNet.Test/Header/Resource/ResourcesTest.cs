@@ -170,6 +170,7 @@ namespace PeNet.Test.Header.Resource
         [InlineData(@"Binaries/firefox_x64.exe", 18)]
         [InlineData(@"Binaries/firefox_x86.exe", 18)]
         [InlineData(@"Binaries/HelloWorld.exe", 0)]
+        [InlineData(@"Binaries/chrome_elf.dll", 0)]
         public void Icons_GivenPeFiles_IconsParsed(string file, int expectedIcons)
         {
             var peFile = new PeFile(file);
