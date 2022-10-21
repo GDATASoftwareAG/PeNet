@@ -132,85 +132,85 @@
     <None Update="Binaries\HelloWorld.TablesStream.ExtraData.exe">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon3.raw">
+    <None Update="Icons\firefox_x64.exe\Icon1.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon11.raw">
+    <None Update="Icons\firefox_x64.exe\Icon2.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon4.raw">
+    <None Update="Icons\firefox_x64.exe\Icon3.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon7.raw">
+    <None Update="Icons\firefox_x64.exe\Icon4.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon9.raw">
+    <None Update="Icons\firefox_x64.exe\Icon5.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon8.raw">
+    <None Update="Icons\firefox_x64.exe\Icon6.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon10.raw">
+    <None Update="Icons\firefox_x64.exe\Icon7.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon15.raw">
+    <None Update="Icons\firefox_x64.exe\Icon8.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon12.raw">
+    <None Update="Icons\firefox_x64.exe\Icon9.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon13.raw">
+    <None Update="Icons\firefox_x64.exe\Icon10.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon5.raw">
+    <None Update="Icons\firefox_x64.exe\Icon11.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon14.raw">
+    <None Update="Icons\firefox_x64.exe\Icon12.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon6.raw">
+    <None Update="Icons\firefox_x64.exe\Icon13.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon1.raw">
+    <None Update="Icons\firefox_x64.exe\Icon14.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon2.raw">
+    <None Update="Icons\firefox_x64.exe\Icon15.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon17.raw">
+    <None Update="Icons\firefox_x64.exe\Icon16.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon18.raw">
+    <None Update="Icons\firefox_x64.exe\Icon17.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\firefox_x64.exe\firefox_x64_Icon16.raw">
+    <None Update="Icons\firefox_x64.exe\Icon18.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\pidgin.exe\pidgin_Icon1.raw">
+    <None Update="Icons\pidgin.exe\Icon1.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\pidgin.exe\pidgin_Icon3.raw">
+    <None Update="Icons\pidgin.exe\Icon2.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\pidgin.exe\pidgin_Icon2.raw">
+    <None Update="Icons\pidgin.exe\Icon3.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\pidgin.exe\pidgin_Icon4.raw">
+    <None Update="Icons\pidgin.exe\Icon4.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\pidgin.exe\pidgin_Icon5.raw">
+    <None Update="Icons\pidgin.exe\Icon5.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\pidgin.exe\pidgin_Icon6.raw">
+    <None Update="Icons\pidgin.exe\Icon6.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\pidgin.exe\pidgin_Icon7.raw">
+    <None Update="Icons\pidgin.exe\Icon7.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\pidgin.exe\pidgin_Icon8.raw">
+    <None Update="Icons\pidgin.exe\Icon8.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Icons\pidgin.exe\pidgin_Icon9.raw">
+    <None Update="Icons\pidgin.exe\Icon9.raw">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
